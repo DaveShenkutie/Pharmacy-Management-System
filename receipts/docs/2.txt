@@ -1,0 +1,4 @@
+amoxaxcilin;500gms;1x3;2;2;4
+TOTAL;;;;;4
+amoxaxcilin;500gms;2x3;2;2;4
+TOTAL;;;;;8

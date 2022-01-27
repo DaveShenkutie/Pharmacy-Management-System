@@ -1,0 +1,2 @@
+Dual Cotexin;10gms;1x3;12;120;1440
+Select Drug;10gms;1x3;2;;0

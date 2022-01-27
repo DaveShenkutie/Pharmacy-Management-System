@@ -1,0 +1,2 @@
+Select Drug;1x4;100gm;12;;0
+Naproxen;1x3;200g;12;250;3000

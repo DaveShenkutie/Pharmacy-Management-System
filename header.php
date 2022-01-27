@@ -1,0 +1,1 @@
+<h1><a href="#"><img src="images/hd_logo.jpg"></a> Pharmacy Management System</h1></div>
